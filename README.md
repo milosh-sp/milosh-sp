@@ -12,7 +12,7 @@ Let's get in touch <a href="mailto:sp-milo&#64;proton.me">sp-milo@proton.me</a>
 # Specialization
 
 </summary>
-My main focus and 4+ years of startup experience is in web-based applications with Next.js and React JS/TS. I have 1 year of experience working with Flutter on mobile applications, so my approach for web applications is always mobile-first. My primary focus is the fintech industry as well as AI and Web3 projects or any web project using React.js. I do not have any experience working with AI projects or Web3, but I am a fast learner and can easily catch on. 
+My main focus and 6+ years of startup experience is in web-based applications with Next.js and React JS/TS. I have 1 year of experience working with Flutter on mobile applications, so my approach for web applications is always mobile-first. My primary focus is the fintech industry as well as AI and Web3 projects or any web project using React.js.
 
 &nbsp;
 
