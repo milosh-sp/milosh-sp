@@ -14,6 +14,8 @@ My main focus and 6+ years of startup experience is in web-based applications wi
 &nbsp;
 
 I enjoy architecting React projects and simplifying any codebase. My experience also consists of **system design** as well. When I write code, I heavily borrow elements from functional programming, especially writing pure functions that are easy to test and maintain.
+
+Most of what I build day to day is under NDA, so the repos here are earlier and personal work rather than current output. I currently have two private projects in progress and can share access on request.
 </details>
 
 <details>
@@ -45,7 +47,7 @@ I enjoy architecting React projects and simplifying any codebase. My experience 
 
 # My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,gatsby,html,vite,webpack,rollupjs,css,sass,tailwind,styledcomponents,dart,flutter,babel,bash,bootstrap,linux,sentry,unity,d3,redux,latex,cloudflare&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,react,next,gatsby,html,vite,webpack,rollupjs,css,sass,tailwind,styledcomponents,dart,flutter,babel,bash,bootstrap,materialui,linux,sentry,unity,d3,redux,latex,cloudflare,netlify,cypress,vitest,linux,&perline=20)](https://skillicons.dev)
 
 ## Additional Skills
 React-Admin, XState, Sanity CMS, MUI, Ant Design, Chakra UI
